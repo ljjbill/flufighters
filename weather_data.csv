@@ -1,0 +1,601 @@
+US State Name,State,Month,Avg_temp
+Alabama,AL,January,45.525
+Alaska,AK,January,11.929999999999998
+Arizona,AZ,January,45.959999999999994
+Arkansas,AR,January,40.43333333333333
+California,CA,January,49.23749999999999
+Colorado,CO,January,27.080000000000002
+Connecticut,CT,January,28.6
+Delaware,DE,January,32.4
+Florida,FL,January,59.27692307692309
+Georgia,GA,January,46.1
+Hawaii,HI,January,71.225
+Idaho,ID,January,30.400000000000002
+Illinois,IL,January,23.900000000000002
+Indiana,IN,January,27.475
+Iowa,IA,January,19.65
+Kansas,KS,January,30.46
+Kentucky,KY,January,34.225
+Louisiana,LA,January,50.825
+Maine,ME,January,16.25
+Maryland,MD,January,32.9
+Massachusetts,MA,January,26.2
+Michigan,MI,January,21.411111111111115
+Minnesota,MN,January,11.5
+Mississippi,MS,January,44.366666666666674
+Missouri,MO,January,31.275
+Montana,MT,January,23.133333333333336
+Nebraska,NE,January,24.2625
+Nevada,NV,January,32.82
+New Hampshire,NH,January,12.65
+New Jersey,NJ,January,33.36666666666667
+New Mexico,NM,January,37.46666666666667
+New York,NY,January,27.422222222222217
+North Carolina,NC,January,41.11666666666667
+North Dakota,ND,January,9.95
+Ohio,OH,January,27.4125
+Oklahoma,OK,January,38.1
+Oregon,OR,January,38.1625
+Pennsylvania,PA,January,28.600000000000005
+Rhode Island,RI,January,29.2
+South Carolina,SC,January,46.25
+South Dakota,SD,January,17.575000000000003
+Tennessee,TN,January,38.38333333333333
+Texas,TX,January,47.438095238095244
+Utah,UT,January,28.7
+Vermont,VT,January,18.7
+Virginia,VA,January,37.5
+Washington,WA,January,37.48571428571428
+West Virginia,WV,January,32.1
+Wisconsin,WI,January,18.775
+Wyoming,WY,January,25.075
+Alabama,AL,February,49.35
+Alaska,AK,February,14.865
+Arizona,AZ,February,49.06
+Arkansas,AR,February,44.76666666666667
+California,CA,February,51.65625
+Colorado,CO,February,31.160000000000004
+Connecticut,CT,February,31.45
+Delaware,DE,February,35.1
+Florida,FL,February,61.95384615384614
+Georgia,GA,February,49.85
+Hawaii,HI,February,71.05000000000001
+Idaho,ID,February,34.53333333333333
+Illinois,IL,February,28.259999999999998
+Indiana,IN,February,31.175
+Iowa,IA,February,24.375
+Kansas,KS,February,34.419999999999995
+Kentucky,KY,February,38.25
+Louisiana,LA,February,54.275000000000006
+Maine,ME,February,19.8
+Maryland,MD,February,35.8
+Massachusetts,MA,February,28.866666666666664
+Michigan,MI,February,23.488888888888887
+Minnesota,MN,February,16.7
+Mississippi,MS,February,48.400000000000006
+Missouri,MO,February,35.85
+Montana,MT,February,26.95
+Nebraska,NE,February,28.2375
+Nevada,NV,February,37.279999999999994
+New Hampshire,NH,February,15.2
+New Jersey,NJ,February,35.699999999999996
+New Mexico,NM,February,41.53333333333334
+New York,NY,February,29.72222222222222
+North Carolina,NC,February,44.166666666666664
+North Dakota,ND,February,15.4
+Ohio,OH,February,30.400000000000002
+Oklahoma,OK,February,42.75
+Oregon,OR,February,40.525000000000006
+Pennsylvania,PA,February,31.2625
+Rhode Island,RI,February,32.0
+South Carolina,SC,February,49.625
+South Dakota,SD,February,22.025
+Tennessee,TN,February,42.43333333333333
+Texas,TX,February,51.171428571428564
+Utah,UT,February,33.650000000000006
+Vermont,VT,February,21.5
+Virginia,VA,February,40.325
+Washington,WA,February,39.857142857142854
+West Virginia,WV,February,35.375
+Wisconsin,WI,February,22.950000000000003
+Wyoming,WY,February,26.975
+Alabama,AL,March,56.5
+Alaska,AK,March,19.92
+Arizona,AZ,March,54.44
+Arkansas,AR,March,53.4
+California,CA,March,54.493750000000006
+Colorado,CO,March,39.839999999999996
+Connecticut,CT,March,38.75
+Delaware,DE,March,43.0
+Florida,FL,March,65.93846153846152
+Georgia,GA,March,56.666666666666664
+Hawaii,HI,March,72.275
+Idaho,ID,March,42.6
+Illinois,IL,March,39.38
+Indiana,IN,March,41.075
+Iowa,IA,March,36.3
+Kansas,KS,March,43.76
+Kentucky,KY,March,47.05
+Louisiana,LA,March,60.725
+Maine,ME,March,29.0
+Maryland,MD,March,43.6
+Massachusetts,MA,March,36.166666666666664
+Michigan,MI,March,32.166666666666664
+Minnesota,MN,March,28.82
+Mississippi,MS,March,55.73333333333333
+Missouri,MO,March,45.8
+Montana,MT,March,35.68333333333334
+Nebraska,NE,March,38.275
+Nevada,NV,March,44.16
+New Hampshire,NH,March,22.950000000000003
+New Jersey,NJ,March,42.53333333333333
+New Mexico,NM,March,48.300000000000004
+New York,NY,March,37.32222222222222
+North Carolina,NC,March,50.75
+North Dakota,ND,March,28.05
+Ohio,OH,March,39.1625
+Oklahoma,OK,March,51.400000000000006
+Oregon,OR,March,44.824999999999996
+Pennsylvania,PA,March,39.55
+Rhode Island,RI,March,38.9
+South Carolina,SC,March,56.225
+South Dakota,SD,March,32.825
+Tennessee,TN,March,50.46666666666667
+Texas,TX,March,58.2
+Utah,UT,March,42.55
+Vermont,VT,March,31.0
+Virginia,VA,March,47.8
+Washington,WA,March,44.628571428571426
+West Virginia,WV,March,43.4
+Wisconsin,WI,March,33.575
+Wyoming,WY,March,35.3
+Alabama,AL,April,63.699999999999996
+Alaska,AK,April,30.8
+Arizona,AZ,April,61.4
+Arkansas,AR,April,62.166666666666664
+California,CA,April,57.7625
+Colorado,CO,April,47.599999999999994
+Connecticut,CT,April,49.45
+Delaware,DE,April,53.3
+Florida,FL,April,70.50769230769231
+Georgia,GA,April,63.6
+Hawaii,HI,April,73.35
+Idaho,ID,April,49.23333333333333
+Illinois,IL,April,51.1
+Indiana,IN,April,52.05
+Iowa,IA,April,49.1
+Kansas,KS,April,53.48
+Kentucky,KY,April,56.949999999999996
+Louisiana,LA,April,67.5
+Maine,ME,April,41.3
+Maryland,MD,April,53.7
+Massachusetts,MA,April,46.93333333333334
+Michigan,MI,April,44.6
+Minnesota,MN,April,43.52
+Mississippi,MS,April,63.23333333333334
+Missouri,MO,April,56.175
+Montana,MT,April,44.73333333333333
+Nebraska,NE,April,49.2125
+Nevada,NV,April,50.32000000000001
+New Hampshire,NH,April,34.5
+New Jersey,NJ,April,52.03333333333334
+New Mexico,NM,April,56.4
+New York,NY,April,48.67777777777778
+North Carolina,NC,April,59.03333333333333
+North Dakota,ND,April,43.35
+Ohio,OH,April,50.55
+Oklahoma,OK,April,60.4
+Oregon,OR,April,49.0
+Pennsylvania,PA,April,50.599999999999994
+Rhode Island,RI,April,49.1
+South Carolina,SC,April,63.525
+South Dakota,SD,April,45.575
+Tennessee,TN,April,59.11666666666667
+Texas,TX,April,65.91904761904762
+Utah,UT,April,49.6
+Vermont,VT,April,44.8
+Virginia,VA,April,57.125
+Washington,WA,April,49.285714285714285
+West Virginia,WV,April,53.525000000000006
+Wisconsin,WI,April,46.175
+Wyoming,WY,April,43.0
+Alabama,AL,May,71.775
+Alaska,AK,May,42.96
+Arizona,AZ,May,70.25999999999999
+Arkansas,AR,May,70.63333333333334
+California,CA,May,62.54375
+Colorado,CO,May,57.239999999999995
+Connecticut,CT,May,59.35
+Delaware,DE,May,62.8
+Florida,FL,May,76.63076923076923
+Georgia,GA,May,71.86666666666666
+Hawaii,HI,May,74.95
+Idaho,ID,May,57.29999999999999
+Illinois,IL,May,61.42
+Indiana,IN,May,62.05
+Iowa,IA,May,60.175
+Kansas,KS,May,63.38000000000001
+Kentucky,KY,May,65.575
+Louisiana,LA,May,75.35
+Maine,ME,May,52.7
+Maryland,MD,May,62.9
+Massachusetts,MA,May,57.1
+Michigan,MI,May,55.42222222222222
+Minnesota,MN,May,55.379999999999995
+Mississippi,MS,May,71.46666666666665
+Missouri,MO,May,65.525
+Montana,MT,May,53.61666666666667
+Nebraska,NE,May,59.9125
+Nevada,NV,May,58.94
+New Hampshire,NH,May,45.65
+New Jersey,NJ,May,61.46666666666667
+New Mexico,NM,May,65.73333333333333
+New York,NY,May,58.85555555555556
+North Carolina,NC,May,66.83333333333333
+North Dakota,ND,May,55.37499999999999
+Ohio,OH,May,60.262499999999996
+Oklahoma,OK,May,69.2
+Oregon,OR,May,55.225
+Pennsylvania,PA,May,60.475
+Rhode Island,RI,May,58.5
+South Carolina,SC,May,71.45
+South Dakota,SD,May,56.875
+Tennessee,TN,May,67.51666666666667
+Texas,TX,May,73.91904761904763
+Utah,UT,May,58.599999999999994
+Vermont,VT,May,56.3
+Virginia,VA,May,65.175
+Washington,WA,May,55.77142857142858
+West Virginia,WV,May,61.4
+Wisconsin,WI,May,56.925
+Wyoming,WY,May,52.45
+Alabama,AL,June,78.55
+Alaska,AK,June,51.735
+Arizona,AZ,June,78.88
+Arkansas,AR,June,78.53333333333332
+California,CA,June,67.11875
+Colorado,CO,June,66.82000000000001
+Connecticut,CT,June,68.75
+Delaware,DE,June,72.2
+Florida,FL,June,81.0692307692308
+Georgia,GA,June,78.78333333333333
+Hawaii,HI,June,76.975
+Idaho,ID,June,65.2
+Illinois,IL,June,70.9
+Indiana,IN,June,71.57499999999999
+Iowa,IA,June,69.575
+Kansas,KS,June,73.24
+Kentucky,KY,June,73.85
+Louisiana,LA,June,80.9
+Maine,ME,June,62.05
+Maryland,MD,June,72.4
+Massachusetts,MA,June,66.26666666666667
+Michigan,MI,June,64.77777777777777
+Minnesota,MN,June,64.58
+Mississippi,MS,June,78.33333333333333
+Missouri,MO,June,74.5
+Montana,MT,June,61.61666666666665
+Nebraska,NE,June,69.6875
+Nevada,NV,June,67.84
+New Hampshire,NH,June,54.95
+New Jersey,NJ,June,71.10000000000001
+New Mexico,NM,June,74.5
+New York,NY,June,68.13333333333334
+North Carolina,NC,June,74.6
+North Dakota,ND,June,64.525
+Ohio,OH,June,69.325
+Oklahoma,OK,June,77.45
+Oregon,OR,June,61.1375
+Pennsylvania,PA,June,69.6125
+Rhode Island,RI,June,68.0
+South Carolina,SC,June,78.525
+South Dakota,SD,June,66.425
+Tennessee,TN,June,75.43333333333334
+Texas,TX,June,80.18571428571428
+Utah,UT,June,68.30000000000001
+Vermont,VT,June,65.8
+Virginia,VA,June,73.775
+Washington,WA,June,61.4
+West Virginia,WV,June,69.42500000000001
+Wisconsin,WI,June,66.775
+Wyoming,WY,June,62.025
+Alabama,AL,July,81.39999999999999
+Alaska,AK,July,55.464999999999996
+Arizona,AZ,July,83.67999999999999
+Arkansas,AR,July,82.5
+California,CA,July,71.15
+Colorado,CO,July,72.74
+Connecticut,CT,July,74.19999999999999
+Delaware,DE,July,76.8
+Florida,FL,July,82.61538461538461
+Georgia,GA,July,81.63333333333333
+Hawaii,HI,July,78.05
+Idaho,ID,July,73.36666666666666
+Illinois,IL,July,74.9
+Indiana,IN,July,74.95
+Iowa,IA,July,73.5
+Kansas,KS,July,78.72
+Kentucky,KY,July,77.07500000000002
+Louisiana,LA,July,83.05
+Maine,ME,July,67.35
+Maryland,MD,July,77.0
+Massachusetts,MA,July,71.83333333333333
+Michigan,MI,July,69.54444444444444
+Minnesota,MN,July,69.30000000000001
+Mississippi,MS,July,81.3
+Missouri,MO,July,79.125
+Montana,MT,July,69.09999999999998
+Nebraska,NE,July,75.22500000000001
+Nevada,NV,July,75.34
+New Hampshire,NH,July,59.55
+New Jersey,NJ,July,76.4
+New Mexico,NM,July,77.76666666666667
+New York,NY,July,73.03333333333333
+North Carolina,NC,July,78.10000000000001
+North Dakota,ND,July,70.19999999999999
+Ohio,OH,July,73.25
+Oklahoma,OK,July,82.4
+Oregon,OR,July,67.62499999999999
+Pennsylvania,PA,July,73.9625
+Rhode Island,RI,July,73.5
+South Carolina,SC,July,81.6
+South Dakota,SD,July,72.65
+Tennessee,TN,July,78.83333333333333
+Texas,TX,July,82.95238095238093
+Utah,UT,July,76.55000000000001
+Vermont,VT,July,70.6
+Virginia,VA,July,77.725
+Washington,WA,July,67.14285714285714
+West Virginia,WV,July,72.925
+Wisconsin,WI,July,71.47500000000001
+Wyoming,WY,July,70.075
+Alabama,AL,August,81.1
+Alaska,AK,August,53.25500000000002
+Arizona,AZ,August,82.08
+Arkansas,AR,August,82.2
+California,CA,August,71.075
+Colorado,CO,August,70.55999999999999
+Connecticut,CT,August,72.94999999999999
+Delaware,DE,August,75.2
+Florida,FL,August,82.53846153846153
+Georgia,GA,August,80.68333333333334
+Hawaii,HI,August,78.575
+Idaho,ID,August,72.53333333333333
+Illinois,IL,August,73.16
+Indiana,IN,August,73.39999999999999
+Iowa,IA,August,71.325
+Kansas,KS,August,77.11999999999999
+Kentucky,KY,August,76.2
+Louisiana,LA,August,83.1
+Maine,ME,August,65.8
+Maryland,MD,August,75.1
+Massachusetts,MA,August,70.46666666666665
+Michigan,MI,August,68.12222222222222
+Minnesota,MN,August,67.14
+Mississippi,MS,August,80.93333333333334
+Missouri,MO,August,78.0
+Montana,MT,August,67.95
+Nebraska,NE,August,73.125
+Nevada,NV,August,73.34
+New Hampshire,NH,August,58.3
+New Jersey,NJ,August,75.06666666666666
+New Mexico,NM,August,76.06666666666666
+New York,NY,August,71.71111111111111
+North Carolina,NC,August,76.91666666666666
+North Dakota,ND,August,68.7
+Ohio,OH,August,71.77499999999999
+Oklahoma,OK,August,82.05000000000001
+Oregon,OR,August,67.4625
+Pennsylvania,PA,August,72.38749999999999
+Rhode Island,RI,August,72.3
+South Carolina,SC,August,80.4
+South Dakota,SD,August,70.675
+Tennessee,TN,August,78.16666666666667
+Texas,TX,August,82.87142857142857
+Utah,UT,August,74.95
+Vermont,VT,August,68.8
+Virginia,VA,August,76.225
+Washington,WA,August,67.02857142857142
+West Virginia,WV,August,71.975
+Wisconsin,WI,August,69.64999999999999
+Wyoming,WY,August,68.65
+Alabama,AL,September,75.8
+Alaska,AK,September,45.705
+Arizona,AZ,September,76.42
+Arkansas,AR,September,74.46666666666667
+California,CA,September,68.45
+Colorado,CO,September,62.02
+Connecticut,CT,September,65.30000000000001
+Delaware,DE,September,67.8
+Florida,FL,September,80.43846153846154
+Georgia,GA,September,75.14999999999999
+Hawaii,HI,September,78.225
+Idaho,ID,September,62.833333333333336
+Illinois,IL,September,65.36
+Indiana,IN,September,66.1
+Iowa,IA,September,63.0
+Kansas,KS,September,68.1
+Kentucky,KY,September,68.925
+Louisiana,LA,September,78.3
+Maine,ME,September,57.55
+Maryland,MD,September,67.8
+Massachusetts,MA,September,63.06666666666666
+Michigan,MI,September,60.43333333333333
+Minnesota,MN,September,58.14
+Mississippi,MS,September,75.06666666666666
+Missouri,MO,September,69.30000000000001
+Montana,MT,September,57.33333333333332
+Nebraska,NE,September,63.85
+Nevada,NV,September,64.44
+New Hampshire,NH,September,50.8
+New Jersey,NJ,September,68.16666666666667
+New Mexico,NM,September,69.03333333333333
+New York,NY,September,64.25555555555555
+North Carolina,NC,September,71.03333333333335
+North Dakota,ND,September,57.8
+Ohio,OH,September,64.55
+Oklahoma,OK,September,73.4
+Oregon,OR,September,61.675000000000004
+Pennsylvania,PA,September,64.775
+Rhode Island,RI,September,64.7
+South Carolina,SC,September,74.9
+South Dakota,SD,September,60.675
+Tennessee,TN,September,71.33333333333333
+Texas,TX,September,76.64285714285714
+Utah,UT,September,64.65
+Vermont,VT,September,60.5
+Virginia,VA,September,69.5
+Washington,WA,September,60.699999999999996
+West Virginia,WV,September,65.07499999999999
+Wisconsin,WI,September,61.525
+Wyoming,WY,September,58.25
+Alabama,AL,October,65.5
+Alaska,AK,October,32.265
+Arizona,AZ,October,64.9
+Arkansas,AR,October,63.43333333333334
+California,CA,October,62.50625
+Colorado,CO,October,49.64
+Connecticut,CT,October,53.65
+Delaware,DE,October,56.2
+Florida,FL,October,74.6
+Georgia,GA,October,65.26666666666667
+Hawaii,HI,October,77.15
+Idaho,ID,October,50.53333333333333
+Illinois,IL,October,53.3
+Indiana,IN,October,54.275
+Iowa,IA,October,50.625
+Kansas,KS,October,55.739999999999995
+Kentucky,KY,October,58.025000000000006
+Louisiana,LA,October,69.175
+Maine,ME,October,46.05
+Maryland,MD,October,56.1
+Massachusetts,MA,October,51.86666666666667
+Michigan,MI,October,48.76666666666667
+Minnesota,MN,October,45.46
+Mississippi,MS,October,64.43333333333334
+Missouri,MO,October,57.7
+Montana,MT,October,45.150000000000006
+Nebraska,NE,October,50.9375
+Nevada,NV,October,52.54
+New Hampshire,NH,October,39.2
+New Jersey,NJ,October,57.13333333333333
+New Mexico,NM,October,57.800000000000004
+New York,NY,October,52.94444444444445
+North Carolina,NC,October,61.06666666666666
+North Dakota,ND,October,44.1
+Ohio,OH,October,53.1125
+Oklahoma,OK,October,61.8
+Oregon,OR,October,52.074999999999996
+Pennsylvania,PA,October,53.387499999999996
+Rhode Island,RI,October,53.6
+South Carolina,SC,October,65.3
+South Dakota,SD,October,47.175000000000004
+Tennessee,TN,October,60.26666666666666
+Texas,TX,October,67.4952380952381
+Utah,UT,October,51.9
+Vermont,VT,October,48.1
+Virginia,VA,October,58.925
+Washington,WA,October,50.957142857142856
+West Virginia,WV,October,54.375
+Wisconsin,WI,October,49.375
+Wyoming,WY,October,45.65
+Alabama,AL,November,55.9
+Alaska,AK,November,19.610000000000003
+Arizona,AZ,November,53.31999999999999
+Arkansas,AR,November,52.333333333333336
+California,CA,November,54.58749999999999
+Colorado,CO,November,36.839999999999996
+Connecticut,CT,November,44.45
+Delaware,DE,November,46.6
+Florida,FL,November,67.55384615384615
+Georgia,GA,November,56.23333333333333
+Hawaii,HI,November,75.125
+Idaho,ID,November,38.46666666666666
+Illinois,IL,November,40.78
+Indiana,IN,November,43.125
+Iowa,IA,November,36.575
+Kansas,KS,November,42.519999999999996
+Kentucky,KY,November,47.574999999999996
+Louisiana,LA,November,60.125
+Maine,ME,November,35.45
+Maryland,MD,November,46.5
+Massachusetts,MA,November,42.233333333333334
+Michigan,MI,November,37.76666666666667
+Minnesota,MN,November,30.439999999999998
+Mississippi,MS,November,54.63333333333333
+Missouri,MO,November,45.675
+Montana,MT,November,32.666666666666664
+Nebraska,NE,November,36.9875
+Nevada,NV,November,40.86
+New Hampshire,NH,November,29.5
+New Jersey,NJ,November,47.666666666666664
+New Mexico,NM,November,45.93333333333334
+New York,NY,November,43.15555555555556
+North Carolina,NC,November,52.15
+North Dakota,ND,November,27.799999999999997
+Ohio,OH,November,42.699999999999996
+Oklahoma,OK,November,50.2
+Oregon,OR,November,42.987500000000004
+Pennsylvania,PA,November,43.4625
+Rhode Island,RI,November,44.5
+South Carolina,SC,November,56.574999999999996
+South Dakota,SD,November,32.25
+Tennessee,TN,November,49.86666666666667
+Texas,TX,November,56.94285714285714
+Utah,UT,November,38.9
+Vermont,VT,November,38.2
+Virginia,VA,November,49.55
+Washington,WA,November,42.02857142857143
+West Virginia,WV,November,44.900000000000006
+Wisconsin,WI,November,36.425
+Wyoming,WY,November,33.5
+Alabama,AL,December,47.775
+Alaska,AK,December,14.860000000000003
+Arizona,AZ,December,45.239999999999995
+Arkansas,AR,December,42.46666666666667
+California,CA,December,48.900000000000006
+Colorado,CO,December,27.26
+Connecticut,CT,December,33.95
+Delaware,DE,December,36.7
+Florida,FL,December,61.65384615384616
+Georgia,GA,December,48.06666666666666
+Hawaii,HI,December,72.77499999999999
+Idaho,ID,December,29.633333333333336
+Illinois,IL,December,27.740000000000002
+Indiana,IN,December,31.3
+Iowa,IA,December,23.05
+Kansas,KS,December,31.72
+Kentucky,KY,December,37.2
+Louisiana,LA,December,52.675
+Maine,ME,December,23.5
+Maryland,MD,December,36.7
+Massachusetts,MA,December,31.8
+Michigan,MI,December,26.666666666666664
+Minnesota,MN,December,15.960000000000003
+Mississippi,MS,December,46.666666666666664
+Missouri,MO,December,33.95
+Montana,MT,December,22.666666666666668
+Nebraska,NE,December,25.5
+Nevada,NV,December,32.540000000000006
+New Hampshire,NH,December,18.45
+New Jersey,NJ,December,37.86666666666667
+New Mexico,NM,December,37.166666666666664
+New York,NY,December,32.699999999999996
+North Carolina,NC,December,43.68333333333334
+North Dakota,ND,December,13.924999999999999
+Ohio,OH,December,31.474999999999998
+Oklahoma,OK,December,39.6
+Oregon,OR,December,37.075
+Pennsylvania,PA,December,33.025
+Rhode Island,RI,December,34.3
+South Carolina,SC,December,48.525000000000006
+South Dakota,SD,December,19.75
+Tennessee,TN,December,40.81666666666667
+Texas,TX,December,48.31428571428571
+Utah,UT,December,29.05
+Vermont,VT,December,25.8
+Virginia,VA,December,40.425
+Washington,WA,December,35.72857142857143
+West Virginia,WV,December,35.275
+Wisconsin,WI,December,23.15
+Wyoming,WY,December,24.375

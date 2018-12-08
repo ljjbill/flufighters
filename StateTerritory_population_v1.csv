@@ -1,3 +1,70 @@
+<<<<<<< HEAD
+State,Population estimate,Percent of total U.S. population
+California,"39,250,017",12.15%
+Texas,"27,862,596",8.62%
+New York,"19,745,289",6.11%
+Florida,"20,612,439",6.38%
+Illinois,"12,801,539",3.96%
+Pennsylvania,"12,784,227",3.96%
+Ohio,"11,614,373",3.59%
+Georgia,"10,310,371",3.19%
+North Carolina,"10,146,788",3.14%
+Michigan,"9,928,300",3.07%
+New Jersey,"8,944,469",2.77%
+Virginia,"8,411,808",2.60%
+Washington,"7,288,000",2.26%
+Arizona,"6,931,071",2.15%
+Massachusetts,"6,811,779",2.11%
+Tennessee,"6,651,194",2.06%
+Indiana,"6,633,053",2.05%
+Missouri,"6,093,000",1.89%
+Maryland,"6,016,447",1.86%
+Wisconsin,"5,778,708",1.79%
+Colorado,"5,540,545",1.72%
+Minnesota,"5,519,952",1.71%
+South Carolina,"4,961,119",1.54%
+Alabama,"4,863,300",1.51%
+Louisiana,"4,681,666",1.45%
+Kentucky,"4,436,974",1.37%
+Oregon,"4,093,465",1.27%
+Oklahoma,"3,923,561",1.21%
+Connecticut,"3,576,452",1.11%
+Puerto Rico,"3,411,307",1.06%
+Iowa,"3,134,693",0.97%
+Utah,"3,051,217",0.94%
+Mississippi,"2,988,726",0.93%
+Arkansas,"2,988,248",0.93%
+Nevada,"2,940,058",0.91%
+Kansas,"2,907,289",0.90%
+New Mexico,"2,081,015",0.64%
+Nebraska,"1,907,116",0.59%
+West Virginia,"1,831,102",0.57%
+Idaho,"1,683,140",0.52%
+Hawaii,"1,428,557",0.44%
+New Hampshire,"1,334,795",0.41%
+Maine,"1,331,479",0.41%
+Rhode Island,"1,056,426",0.33%
+Montana,"1,042,520",0.32%
+Delaware,"952,065",0.30%
+South Dakota,"865,454",0.27%
+North Dakota,"757,952",0.24%
+Alaska,"741,894",0.23%
+District of Columbia,"681,170",0.21%
+Vermont,"624,594",0.19%
+Wyoming,"585,501",0.18%
+Guam,"161,785",0.06%
+U.S. Virgin Islands,"103,574",0.04%
+American Samoa,"54,343",0.01%
+Northern Mariana Islands,"52,344",0.00%
+Wake Island,188,0.00%
+Johnston Atoll,40,0.00%
+Midway Atoll,75,0.00%
+Palmyra Atoll,20,0.00%
+Contiguous United States,"320,975,339",98.18%
+The fifty states,"322,464,620",98.48%
+Fifty states + D.C.,"323,145,790",98.67%
+Total U.S. territory,"326,929,143",100.00%
+=======
 State or territory,Population estimate 2016,Percent of total U.S. population 2016
 California,"39,250,017",12.15%
 Texas,"27,862,596",8.62%
@@ -63,3 +130,4 @@ Contiguous United States,"320,975,339",98.18%
 The fifty states,"322,464,620",98.48%
 Fifty states + D.C.,"323,145,790",98.67%
 Total U.S. territory,"326,929,143",100.00%
+>>>>>>> a716ba5028467b4d0edbdea9f3e5a37ad31119f9
